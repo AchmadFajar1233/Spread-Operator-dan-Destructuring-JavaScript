@@ -193,5 +193,5 @@ Copy
 const obj1 = { a: 1, b: 2, c: 3 };
 const obj2 = { b: 99, d: 4 };
 ```
-<i> note: Jawaban ada di task.js
+<i> note: Jawaban ada di jawaban.js
 
